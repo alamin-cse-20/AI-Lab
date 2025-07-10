@@ -44,6 +44,9 @@ void solveWaterJug(int X, int Y, int Z) {
             {a + min(b, X - a), b - min(b, X - a), current.steps + 1, current.path}  // Pour Y -> X
         };
 
+
+// jofsdjoifjsdovjsdoibj
+
         vector<string> actions = {
             "Fill Jug X",
             "Fill Jug Y",
